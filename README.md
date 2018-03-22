@@ -1,2 +1,2 @@
 # Vision-Mission-Values
-Restoring trust in our democracy
+Reclaiming ownership of our data
